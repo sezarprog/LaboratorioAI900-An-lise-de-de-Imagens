@@ -1,5 +1,5 @@
 # LaboratorioAI900-An-lise-de-de-Imagens
-## test
+## Em atualização 😁
 *Link do passo a passo para Detect faces in Vision Studio, acessado em 29/02/24*
 
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
